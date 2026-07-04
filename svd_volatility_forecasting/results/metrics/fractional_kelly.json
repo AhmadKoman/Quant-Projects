@@ -1,0 +1,152 @@
+[
+  {
+    "model": "HAR",
+    "rule": "bayes",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.09542013928414904
+  },
+  {
+    "model": "HAR",
+    "rule": "rkw",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.09542013928414904
+  },
+  {
+    "model": "HAR",
+    "rule": "kl_tilt",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.09542013928414904
+  },
+  {
+    "model": "HAR+SVD",
+    "rule": "bayes",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.09633805595165126
+  },
+  {
+    "model": "HAR+SVD",
+    "rule": "rkw",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.09633805595165126
+  },
+  {
+    "model": "HAR+SVD",
+    "rule": "kl_tilt",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.09633805595165126
+  },
+  {
+    "model": "HAR_SVD_T3",
+    "rule": "bayes",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.11023551788758938
+  },
+  {
+    "model": "HAR_SVD_T3",
+    "rule": "rkw",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.11023551788758938
+  },
+  {
+    "model": "HAR_SVD_T3",
+    "rule": "kl_tilt",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.11023551788758938
+  },
+  {
+    "model": "DNN_HAR+SVD",
+    "rule": "bayes",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.1568188334109894
+  },
+  {
+    "model": "DNN_HAR+SVD",
+    "rule": "rkw",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.1568188334109894
+  },
+  {
+    "model": "DNN_HAR+SVD",
+    "rule": "kl_tilt",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.1568188334109894
+  },
+  {
+    "model": "LSTM_HAR+SVD",
+    "rule": "bayes",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.05831917986266876
+  },
+  {
+    "model": "LSTM_HAR+SVD",
+    "rule": "rkw",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.05831917986266876
+  },
+  {
+    "model": "LSTM_HAR+SVD",
+    "rule": "kl_tilt",
+    "n": 1732,
+    "sharpe": NaN,
+    "delta_g_log": NaN,
+    "mean_fraction": 1.0,
+    "max_drawdown": NaN,
+    "turnover": 0.05831917986266876
+  }
+]

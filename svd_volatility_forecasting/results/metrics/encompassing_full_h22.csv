@@ -1,0 +1,2 @@
+horizon,alpha,alpha_p,alpha_se,alpha_t,encompassing_verdict,lambda1,lambda1_p,lambda1_se,lambda1_t,lambda2,lambda2_p,lambda2_p_one_sided,lambda2_se,lambda2_t,r2,svd_adds_info,svd_encompasses,svd_significantly_negative
+22,1.0210842840890775,0.028080382311323527,0.46494042465031593,2.1961615509278207,"SVD enters with NEGATIVE weight (lambda2<0, p<.05) -- HAR dominates",2.9839240680804684,0.017349724401757992,1.2541651869292414,2.379211366396202,-2.7993998220469307,0.037781624595176894,0.9811091877024115,1.347669079898517,-2.0772160345607493,0.17383640200300177,False,False,True

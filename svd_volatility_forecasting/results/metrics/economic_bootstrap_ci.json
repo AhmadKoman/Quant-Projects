@@ -1,0 +1,13 @@
+[
+  {
+    "metric": "sharpe_diff_HAR_SVD_minus_HAR",
+    "point": NaN,
+    "lo": NaN,
+    "hi": NaN,
+    "T": 1732,
+    "n_boot": 1999,
+    "block_length": 12,
+    "alpha": 0.05,
+    "statistic": "sharpe_diff"
+  }
+]

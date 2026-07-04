@@ -1,0 +1,72 @@
+[
+  {
+    "model": "HAR",
+    "alpha_daily": NaN,
+    "alpha_annualised_bp": NaN,
+    "alpha_t": NaN,
+    "alpha_p": NaN,
+    "alpha_se": NaN,
+    "beta": NaN,
+    "beta_t": NaN,
+    "beta_se": NaN,
+    "r_squared": NaN,
+    "T": 1732,
+    "hac_lags": 18
+  },
+  {
+    "model": "HAR+SVD",
+    "alpha_daily": NaN,
+    "alpha_annualised_bp": NaN,
+    "alpha_t": NaN,
+    "alpha_p": NaN,
+    "alpha_se": NaN,
+    "beta": NaN,
+    "beta_t": NaN,
+    "beta_se": NaN,
+    "r_squared": NaN,
+    "T": 1732,
+    "hac_lags": 18
+  },
+  {
+    "model": "HAR_SVD_T3",
+    "alpha_daily": NaN,
+    "alpha_annualised_bp": NaN,
+    "alpha_t": NaN,
+    "alpha_p": NaN,
+    "alpha_se": NaN,
+    "beta": NaN,
+    "beta_t": NaN,
+    "beta_se": NaN,
+    "r_squared": NaN,
+    "T": 1732,
+    "hac_lags": 18
+  },
+  {
+    "model": "DNN_HAR+SVD",
+    "alpha_daily": NaN,
+    "alpha_annualised_bp": NaN,
+    "alpha_t": NaN,
+    "alpha_p": NaN,
+    "alpha_se": NaN,
+    "beta": NaN,
+    "beta_t": NaN,
+    "beta_se": NaN,
+    "r_squared": NaN,
+    "T": 1732,
+    "hac_lags": 18
+  },
+  {
+    "model": "LSTM_HAR+SVD",
+    "alpha_daily": NaN,
+    "alpha_annualised_bp": NaN,
+    "alpha_t": NaN,
+    "alpha_p": NaN,
+    "alpha_se": NaN,
+    "beta": NaN,
+    "beta_t": NaN,
+    "beta_se": NaN,
+    "r_squared": NaN,
+    "T": 1732,
+    "hac_lags": 18
+  }
+]

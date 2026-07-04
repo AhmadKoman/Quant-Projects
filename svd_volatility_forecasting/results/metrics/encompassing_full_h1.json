@@ -1,0 +1,21 @@
+{
+  "horizon": 1,
+  "alpha": -0.3310559405940196,
+  "alpha_p": 0.3489162783833535,
+  "alpha_se": 0.35343040862174213,
+  "alpha_t": -0.9366934268192278,
+  "encompassing_verdict": "SVD adds info (lambda2>0, p_one<.05)",
+  "lambda1": 0.10663751401328753,
+  "lambda1_p": 0.8346675151167827,
+  "lambda1_se": 0.5109139748632148,
+  "lambda1_t": 0.20871911762021625,
+  "lambda2": 1.1842565095460842,
+  "lambda2_p": 6.117704783564544e-05,
+  "lambda2_p_one_sided": 3.058852391782272e-05,
+  "lambda2_se": 0.2954566591671985,
+  "lambda2_t": 4.008224126286878,
+  "r2": 0.3534297733571541,
+  "svd_adds_info": true,
+  "svd_encompasses": true,
+  "svd_significantly_negative": false
+}

@@ -1,0 +1,21 @@
+{
+  "horizon": 22,
+  "alpha": 1.0210842840890775,
+  "alpha_p": 0.028080382311323527,
+  "alpha_se": 0.46494042465031593,
+  "alpha_t": 2.1961615509278207,
+  "encompassing_verdict": "SVD enters with NEGATIVE weight (lambda2<0, p<.05) -- HAR dominates",
+  "lambda1": 2.9839240680804684,
+  "lambda1_p": 0.017349724401757992,
+  "lambda1_se": 1.2541651869292414,
+  "lambda1_t": 2.379211366396202,
+  "lambda2": -2.7993998220469307,
+  "lambda2_p": 0.037781624595176894,
+  "lambda2_p_one_sided": 0.9811091877024115,
+  "lambda2_se": 1.347669079898517,
+  "lambda2_t": -2.0772160345607493,
+  "r2": 0.17383640200300177,
+  "svd_adds_info": false,
+  "svd_encompasses": false,
+  "svd_significantly_negative": true
+}

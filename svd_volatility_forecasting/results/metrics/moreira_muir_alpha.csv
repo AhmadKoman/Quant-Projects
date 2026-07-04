@@ -1,0 +1,6 @@
+model,alpha_daily,alpha_annualised_bp,alpha_t,alpha_p,alpha_se,beta,beta_t,beta_se,r_squared,T,hac_lags
+HAR,,,,,,,,,,1732,18
+HAR+SVD,,,,,,,,,,1732,18
+HAR_SVD_T3,,,,,,,,,,1732,18
+DNN_HAR+SVD,,,,,,,,,,1732,18
+LSTM_HAR+SVD,,,,,,,,,,1732,18

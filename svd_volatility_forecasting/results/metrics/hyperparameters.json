@@ -1,0 +1,110 @@
+{
+  "n_stocks_universe": 135,
+  "n_stocks_filtered": 115,
+  "referee_response_cross_section_N": "Initial manuscript used a 7\u00d77 covariance illustration; the revised pipeline sets data.n_stocks_filtered=115 (see config.py / fetch_stocks).",
+  "svd_window_M": 252,
+  "K": 6,
+  "crisis_threshold_default": 0.8,
+  "crisis_thresholds_sensitivity": [
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9
+  ],
+  "rv_windows": [
+    1,
+    5,
+    10,
+    22
+  ],
+  "train_val_test_split": [
+    0.7,
+    0.15,
+    0.15
+  ],
+  "horizons": [
+    1,
+    5,
+    22
+  ],
+  "min_assets": 50,
+  "dnn_hidden_har": [
+    64,
+    32,
+    16
+  ],
+  "dnn_hidden_svd": [
+    64,
+    32,
+    16
+  ],
+  "dnn_dropout": 0.2,
+  "dnn_l2": 0.0001,
+  "dnn_lr": 0.001,
+  "dnn_batch_size": 32,
+  "dnn_epochs_max": 500,
+  "dnn_patience": 20,
+  "lstm_seq_len": 22,
+  "lstm_hidden": 64,
+  "lstm_dropout": 0.2,
+  "lstm_recurrent_dropout": 0.2,
+  "lstm_l2": 0.0001,
+  "lstm_lr": 0.001,
+  "lstm_epochs_max": 500,
+  "lstm_patience": 20,
+  "harnet_seq_len": 22,
+  "harnet_filters": 32,
+  "harnet_dilations": [
+    1,
+    5,
+    11
+  ],
+  "harnet_dropout": 0.1,
+  "gnn_hidden_dim": 32,
+  "gnn_adj_threshold": 0.3,
+  "mc_dropout_samples": 200,
+  "seed": 42,
+  "crisis_windows_date": [
+    [
+      "2020-02-20",
+      "2020-03-31"
+    ],
+    [
+      "2022-02-20",
+      "2022-03-31"
+    ],
+    [
+      "2023-03-01",
+      "2023-03-20"
+    ]
+  ],
+  "train_split_sensitivity": [
+    0.65,
+    0.7,
+    0.75
+  ],
+  "smearing_factor_bounds": [
+    0.1,
+    50.0
+  ],
+  "pred_log_clip_width": 4.0,
+  "feature_clip_std": 5.0,
+  "garch_innovations": "gaussian",
+  "garch_refit_every": null,
+  "har_svd_bootstrap_n_boot": 150,
+  "inference_dm_export_detailed": true,
+  "inference_gw_standardize": true,
+  "inference_gw_zscore_moments": "train",
+  "feature_ablation_enabled": true,
+  "feature_ablation_groups": [
+    "G2_svd",
+    "G3_ixn",
+    "G1_eigen"
+  ],
+  "feature_ablation_include_tier3": true,
+  "feature_ablation_in_mcs": false,
+  "feature_ablation_qlike_delta": 0.0,
+  "optional_inference_enabled": true,
+  "optional_inference_n_boot": 1999
+}

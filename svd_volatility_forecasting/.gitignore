@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Regeneratable at runtime
+results/checkpoints/
+results/walk_forward/
+results/svd_plan_evaluation/
+logs/
+*.log
+
+# Optional: fetch locally instead of committing (returns_100.csv is ~15MB)
+# data/returns_100.csv

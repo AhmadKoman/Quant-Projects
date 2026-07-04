@@ -1,0 +1,21 @@
+{
+  "horizon": 5,
+  "alpha": -0.8116088959479157,
+  "alpha_p": 0.033677027831039895,
+  "alpha_se": 0.3821282265629633,
+  "alpha_t": -2.123917678753801,
+  "encompassing_verdict": "not significant",
+  "lambda1": 0.6236100459053271,
+  "lambda1_p": 0.80974812831697,
+  "lambda1_se": 2.5902700739249624,
+  "lambda1_t": 0.24075097503650983,
+  "lambda2": 1.173753271021149,
+  "lambda2_p": 0.6410853145930232,
+  "lambda2_p_one_sided": 0.3205426572965116,
+  "lambda2_se": 2.5178011165235366,
+  "lambda2_t": 0.4661818851847255,
+  "r2": 0.3701504258344306,
+  "svd_adds_info": false,
+  "svd_encompasses": false,
+  "svd_significantly_negative": false
+}

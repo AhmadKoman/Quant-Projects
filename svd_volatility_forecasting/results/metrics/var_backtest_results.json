@@ -1,0 +1,54 @@
+{
+  "HAR_1%": {
+    "alpha_level": 0.01,
+    "n_obs": 1732,
+    "n_violations": 36,
+    "phat": 0.020785219399538105,
+    "expected_viol": 17.32,
+    "kupiec_stat": 15.523552520602884,
+    "kupiec_p": 8.148365564475402e-05,
+    "christoffersen_stat": NaN,
+    "christoffersen_p": NaN,
+    "passes_kupiec": false,
+    "passes_christoffersen": false
+  },
+  "HAR+SVD_1%": {
+    "alpha_level": 0.01,
+    "n_obs": 1732,
+    "n_violations": 35,
+    "phat": 0.02020785219399538,
+    "expected_viol": 17.32,
+    "kupiec_stat": 14.066958695247692,
+    "kupiec_p": 0.00017641583941829797,
+    "christoffersen_stat": 14.178891604392831,
+    "christoffersen_p": 0.0008338593606027622,
+    "passes_kupiec": false,
+    "passes_christoffersen": false
+  },
+  "HAR_5%": {
+    "alpha_level": 0.05,
+    "n_obs": 1732,
+    "n_violations": 89,
+    "phat": 0.05138568129330254,
+    "expected_viol": 86.60000000000001,
+    "kupiec_stat": 0.06940901295913893,
+    "kupiec_p": 0.7921992073628343,
+    "christoffersen_stat": 0.5222537484388825,
+    "christoffersen_p": 0.7701831970240223,
+    "passes_kupiec": true,
+    "passes_christoffersen": true
+  },
+  "HAR+SVD_5%": {
+    "alpha_level": 0.05,
+    "n_obs": 1732,
+    "n_violations": 82,
+    "phat": 0.04734411085450346,
+    "expected_viol": 86.60000000000001,
+    "kupiec_stat": 0.261634925449977,
+    "kupiec_p": 0.6089991575842777,
+    "christoffersen_stat": 0.5879003728663807,
+    "christoffersen_p": 0.7453136172482635,
+    "passes_kupiec": true,
+    "passes_christoffersen": true
+  }
+}

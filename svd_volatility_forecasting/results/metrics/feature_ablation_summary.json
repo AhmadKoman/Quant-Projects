@@ -1,0 +1,96 @@
+{
+  "qlike_noninferiority_delta": 0.0,
+  "model_key_prefix": "HAR+SVD_minus_",
+  "horizons": {
+    "1": {
+      "HAR+SVD_minus_G1_eigen": {
+        "QLIKE_full_M2": 1.5341694907128496,
+        "QLIKE_ablation": 1.5321756099261086,
+        "QLIKE_diff_ablation_minus_full": -0.001993880786741009,
+        "DM_pvalue_full_vs_ablation": 0.4117019438898546,
+        "redundant_by_rule": true
+      },
+      "HAR+SVD_minus_G2_svd": {
+        "QLIKE_full_M2": 1.5341694907128496,
+        "QLIKE_ablation": 1.5290057998941422,
+        "QLIKE_diff_ablation_minus_full": -0.005163690818707378,
+        "DM_pvalue_full_vs_ablation": 0.19270577308830106,
+        "redundant_by_rule": true
+      },
+      "HAR+SVD_minus_G3_ixn": {
+        "QLIKE_full_M2": 1.5341694907128496,
+        "QLIKE_ablation": 1.5327383954860785,
+        "QLIKE_diff_ablation_minus_full": -0.0014310952267710952,
+        "DM_pvalue_full_vs_ablation": 0.6948130397593562,
+        "redundant_by_rule": true
+      },
+      "HAR+SVD_minus_G4_xs": {
+        "QLIKE_full_M2": 1.5341694907128496,
+        "QLIKE_ablation": 1.5341694907128498,
+        "QLIKE_diff_ablation_minus_full": 2.220446049250313e-16,
+        "DM_pvalue_full_vs_ablation": 0.898298398924283,
+        "redundant_by_rule": false
+      }
+    },
+    "5": {
+      "HAR+SVD_minus_G1_eigen": {
+        "QLIKE_full_M2": 0.48123850007705843,
+        "QLIKE_ablation": 0.4829000067734975,
+        "QLIKE_diff_ablation_minus_full": 0.0016615066964390524,
+        "DM_pvalue_full_vs_ablation": 0.6691553263994576,
+        "redundant_by_rule": false
+      },
+      "HAR+SVD_minus_G2_svd": {
+        "QLIKE_full_M2": 0.48123850007705843,
+        "QLIKE_ablation": 0.48597061538123626,
+        "QLIKE_diff_ablation_minus_full": 0.004732115304177831,
+        "DM_pvalue_full_vs_ablation": 0.21404757230498306,
+        "redundant_by_rule": false
+      },
+      "HAR+SVD_minus_G3_ixn": {
+        "QLIKE_full_M2": 0.48123850007705843,
+        "QLIKE_ablation": 0.48123850007705843,
+        "QLIKE_diff_ablation_minus_full": 0.0,
+        "DM_pvalue_full_vs_ablation": 0.18879252125287938,
+        "redundant_by_rule": true
+      },
+      "HAR+SVD_minus_G4_xs": {
+        "QLIKE_full_M2": 0.48123850007705843,
+        "QLIKE_ablation": 0.48123850007705843,
+        "QLIKE_diff_ablation_minus_full": 0.0,
+        "DM_pvalue_full_vs_ablation": 0.18879252125287938,
+        "redundant_by_rule": true
+      }
+    },
+    "22": {
+      "HAR+SVD_minus_G1_eigen": {
+        "QLIKE_full_M2": 0.5010280913328578,
+        "QLIKE_ablation": 0.4862617680669418,
+        "QLIKE_diff_ablation_minus_full": -0.014766323265915926,
+        "DM_pvalue_full_vs_ablation": 0.2914639884604735,
+        "redundant_by_rule": true
+      },
+      "HAR+SVD_minus_G2_svd": {
+        "QLIKE_full_M2": 0.5010280913328578,
+        "QLIKE_ablation": 0.5016162314530003,
+        "QLIKE_diff_ablation_minus_full": 0.0005881401201425218,
+        "DM_pvalue_full_vs_ablation": 0.47983778384230935,
+        "redundant_by_rule": false
+      },
+      "HAR+SVD_minus_G3_ixn": {
+        "QLIKE_full_M2": 0.5010280913328578,
+        "QLIKE_ablation": 0.5010280913328578,
+        "QLIKE_diff_ablation_minus_full": 0.0,
+        "DM_pvalue_full_vs_ablation": 0.13250821781326638,
+        "redundant_by_rule": true
+      },
+      "HAR+SVD_minus_G4_xs": {
+        "QLIKE_full_M2": 0.5010280913328578,
+        "QLIKE_ablation": 0.5010280913328578,
+        "QLIKE_diff_ablation_minus_full": 0.0,
+        "DM_pvalue_full_vs_ablation": 0.13250821781326638,
+        "redundant_by_rule": true
+      }
+    }
+  }
+}
