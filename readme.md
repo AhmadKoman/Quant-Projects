@@ -1,3 +1,6 @@
-Here is some of chosen quant research projects, strategy ideas, analysis, and further technical related projects.
+# Quant Projects
 
-- [Multi-asset RL trading model comparison](multi_asset_rl_trading/readme.md) — A2C, LSTM, CNN, ANN, and ARIMA walk-forward backtests on 11 US equities.
+Selected quant research: commodity futures pricing, multi asset RL backtests, and related strategy work.
+
+- [Bottom up corn futures pricing](Bottom_up_pricing_corn_futures/readme.md)
+- [Multi asset RL trading comparison](multi_asset_rl_trading/readme.md)
