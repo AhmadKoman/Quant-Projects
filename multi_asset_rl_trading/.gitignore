@@ -1,0 +1,24 @@
+# Data and trained weights (too large for git)
+data/Data4Fin.csv
+models/
+
+# Runtime outputs
+logs/
+*.pth
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+lost+found/

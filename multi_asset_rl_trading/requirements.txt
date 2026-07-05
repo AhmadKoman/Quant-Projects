@@ -1,0 +1,11 @@
+accelerate
+gymnasium
+gym
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+statsmodels
+torch
+tqdm

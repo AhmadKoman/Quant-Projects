@@ -1,0 +1,7 @@
+Model,Return_Rate_mean,Sharpe_Ratio_mean,Volatility_mean,Max_Drawdown_mean
+Random,3.88,0.87,4.92,-2.9
+A2C,2.91,0.68,4.79,-3.02
+LSTM,6.77,1.04,7.1,-3.37
+CNN,-1.01,-0.14,6.41,-7.84
+ANN,8.44,1.42,6.35,-3.44
+ARIMA,1.19,0.55,2.39,-1.52
